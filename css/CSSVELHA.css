@@ -1,0 +1,22 @@
+::-webkit-scrollbar {
+    width: 0px;
+}
+
+body {
+    background-color: black;
+}
+
+.game {
+    margin-top: 15vh;
+}
+
+.butto {
+    width: 5vw;
+    height: 5vw;
+    font-size: 2vw;
+}
+
+.im {
+    width: 3vw;
+    height: 3vw;
+}
